@@ -2,6 +2,8 @@
 
 update: 2026-10-29
 
+> Native Linux: skip the Windows/VM setup in sections 1.1–1.3 and start at section 1.4. This GitHub copy includes course code and data, not virtual-machine installers. The `apt` commands below are for Ubuntu/Debian-based systems.
+
 ## 0 Why Use PyTorch
 
 - Close to Python conventions
@@ -22,7 +24,7 @@ VMware workstation player 17.0+ is recommended for our development, as it has be
 
 VMware Workstation 17/16 Player is free for personal use. You can download **VMware Workstation  Player 17.5** from following links:
 
-[VMware Workstation Player 17.5 installer](https://github.com/warner-ng/tongji-deep-learning/releases/download/course-assets-2026/VMware-player-full-17.5.0-22583795.zip)
+The original guide provides a VMware Player download for Windows users. This installer is not included in this native-Linux course copy.
 
 NOTE: no license is needed, just skip license code input during installation.
 
