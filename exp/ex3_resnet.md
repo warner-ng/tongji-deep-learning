@@ -238,7 +238,7 @@ We are using the previous dataset of flowers. Using "split.py" to divide all ima
 
 The training script can be acquired from following repository:
 
-https://git.tongji.edu.cn/100698_dl/examples/-/tree/main/2_resnet_pretrain
+[ResNet pretraining examples](../examples/2_resnet_pretrain)
 
 Use `git clone` to get the copy of the project.
 
@@ -314,7 +314,7 @@ Create a new work folder, then modify `train.py` to remove the loading of pre-tr
 
 MNIST dataset can be downloaded automatically, use following script to prepare dataset
 
-https://git.tongji.edu.cn/100698_dl/examples/-/tree/main/2_resnet_mnist/download_mnist.py
+[download_mnist.py](../examples/2_resnet_mnist/download_mnist.py)
 
 This script will automatically download from Pytorch.org, then split training set and test set, in the similar folder structure like flowers_dataset.
 

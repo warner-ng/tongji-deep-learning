@@ -22,7 +22,7 @@ VMware workstation player 17.0+ is recommended for our development, as it has be
 
 VMware Workstation 17/16 Player is free for personal use. You can download **VMware Workstation  Player 17.5** from following links:
 
-[https://git.tongji.edu.cn/ichip/asset/-/package_files/6/download](https://git.tongji.edu.cn/ichip/asset/-/package_files/6/download)
+[VMware Workstation Player 17.5 installer](https://github.com/warner-ng/tongji-deep-learning/releases/download/course-assets-2026/VMware-player-full-17.5.0-22583795.zip)
 
 NOTE: no license is needed, just skip license code input during installation.
 
@@ -289,7 +289,7 @@ To save the online hours of AGI platform, here are some hints:
 
 <img src="image/image-20251015104758579.png" alt="image-20251015104758579" style="zoom:50%;" />
 
-[mlp_fnn.py](../examples/mlp_fnn.py)
+[mlp_fnn.py](../examples/0_mlp_fnn/mlp_fnn.py)
 
 
 
@@ -311,7 +311,7 @@ python3-pip install matplotlib
 
 The python source file can be get here:
 
-[linear_regression.py](../examples/linear_regression.py)
+[linear_regression.py](../examples/0_linear_regression/linear_regression.py)
 
 
 
@@ -333,7 +333,7 @@ Concept:
 
 Code:
 
-[log_regression.py](../examples/log_regression.py)
+[log_regression.py](../examples/0_log_regression/log_regression.py)
 
 
 
@@ -348,7 +348,7 @@ pip install scikit-learn
 
 This example need lots of computation, it will take more than 1 day on i7-13700K desktop CPU. Even 2070S GPU will take about 4 hours to train. Use GPU to accelerate the training progress.
 
-[pt_class.py](../examples/pt_class.py)
+[pt_class.py](../examples/0_resnet18/pt_class.py)
 
 If you have GPU installed, it will gain 8~20x faster than pure CPU.
 
@@ -370,7 +370,7 @@ Concept:
 
 Reference Code:
 
-[rnn_ex.py](../examples/rnn_ex.py)
+[rnn.py](../examples/0_rnn/rnn.py)
 
 
 
@@ -382,7 +382,7 @@ Concept:
 
 Reference Code:
 
-[cnn_ex.py](../examples/cnn_ex.py)
+[cnn.py](../examples/0_cnn/cnn.py)
 
 
 
@@ -394,7 +394,7 @@ Concept:
 
 Reference Code:
 
-[gan.py](../examples/gan.py)
+[gan.py](../examples/0_gan/gan.py)
 
 
 
@@ -408,7 +408,7 @@ Concepts:
 
 Reference Code:
 
-[vae.py](../examples/vae.py)
+[vae.py](../examples/0_vae/vae.py)
 
 
 

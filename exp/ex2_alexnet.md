@@ -88,7 +88,7 @@ The flower dataset consists of 3670 sample pictures. These pics are classified i
 
 Download the flower dataset from following link:
 
-https://git.tongji.edu.cn/100698_dl/doc/-/blob/main/dataset/flower_photos.tgz
+[flower_photos.tgz](https://github.com/warner-ng/tongji-deep-learning/releases/download/course-assets-2026/flower_photos.tgz)
 
 Extract the .tgz file, and rename the sub-folder to "dataset_flowers". Move the "dataset_flowers" to where your python code locates. The folder struct should look like this:
 
